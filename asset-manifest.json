@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VentureSite/static/css/main.de2508a2.css",
+    "main.css": "/VentureSite/static/css/main.9594df6f.css",
     "main.js": "/VentureSite/static/js/main.42dcda92.js",
     "index.html": "/VentureSite/index.html",
-    "main.de2508a2.css.map": "/VentureSite/static/css/main.de2508a2.css.map",
+    "main.9594df6f.css.map": "/VentureSite/static/css/main.9594df6f.css.map",
     "main.42dcda92.js.map": "/VentureSite/static/js/main.42dcda92.js.map"
   },
   "entrypoints": [
-    "static/css/main.de2508a2.css",
+    "static/css/main.9594df6f.css",
     "static/js/main.42dcda92.js"
   ]
 }
